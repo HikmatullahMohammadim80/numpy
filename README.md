@@ -1,2 +1,0 @@
-# numpy
-Numeric calculation 
